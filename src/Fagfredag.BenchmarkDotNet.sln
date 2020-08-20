@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30014.187
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fagfredag.BenchmarkDotNet", "Fagfredag.BenchmarkDotNet\Fagfredag.BenchmarkDotNet.csproj", "{69682E0B-0CAA-42C1-BFC8-76DE764D850E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69682E0B-0CAA-42C1-BFC8-76DE764D850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69682E0B-0CAA-42C1-BFC8-76DE764D850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69682E0B-0CAA-42C1-BFC8-76DE764D850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69682E0B-0CAA-42C1-BFC8-76DE764D850E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54D5A5C-59D5-41FD-9548-BE27D26A85CB}
+	EndGlobalSection
+EndGlobal
